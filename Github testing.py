@@ -6,3 +6,5 @@ Created on Thu Feb  2 14:25:59 2023
 """
 
 print('This works')
+x = 'hi'
+print(x)
