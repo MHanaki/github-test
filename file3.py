@@ -6,3 +6,7 @@ Created on Thu Feb  2 15:19:48 2023
 """
 
 print('this is the 3rd file')
+w = 2
+l = 4
+area = w * l
+print("area is", area)
