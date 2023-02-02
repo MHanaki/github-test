@@ -6,3 +6,5 @@ Created on Thu Feb  2 15:29:04 2023
 """
 
 print('wow')
+x = 5
+print(x)
